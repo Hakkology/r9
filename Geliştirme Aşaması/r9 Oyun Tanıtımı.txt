@@ -1,0 +1,52 @@
+r9! 'u Tanıyalım
+
+Oyunumuz zamana dayalı bir refleks oyunudur.
+Oyunda ki amacımız, 0-9 arasındaki sayılara dokunarak skorumuzu arttırmaktır.
+Oyunda ekran üzerinde rastgele olacak şekilde 3-9 arasında sayılar oluşacaktır.
+Bu sayılar bulundukları konumdan aşağıya doğru gideceklerdir.
+Zemine ulaştığında oyuncu oyunu kaybedecektir.
+
+Grafiksel olarak oyuncuya yardımcı olması açısından sayılar aşağıya doğru inerken,
+aynı zamanda azalacakdır.
+Örneğin, ekran 7 sayısı oluştu
+7 sayısı aşağıya düşüş gerçekleştirirken 1'er 1'er azalacaktır.
+
+	7
+	6
+	5
+	4
+	3
+	2
+	1
+	0
+
+şeklinde.
+
+Bu esnada sayıların etrafını saran, KARO şeklinde bir zemin olacaktır ve zemin
+rengi sayı azaldıkça değişecektir.
+
+	9	:	Yeşil
+	8	:
+	7	:
+	6	:
+	5	:
+	4	:
+	3	:
+	2	:
+	1	:
+	0	:	Kırmızı
+
+Yukarıdan da anlaşılacağı üzere, renkler yeşilden kırmızıya doğru geçiş sağlayacaktır.
+
+NOT: Oyuncu ilgili değerlerin tümünü ekrandan temizlemelidir. 0 değeri'de zemine temas ettiğinde
+oyunun sonlanmasına neden olacaktır.
+
+Oyuna ek olarak, can hakkı için 1 Kalp, alacağı alacağı paunı 2,3,4 gibi katlarına çeviren farklı
+ikonlarda ekranda aynı şekilde oluşup, aşağıya düşecektir.
+Ayrıca, oyunu yavaşlatan, hızlandıran, zeminden aşağıya doğru YATAY düzlemde tüm ekranda
+GİDİP-GERİ GELEN bir lazer, Anlık olarak oyunu durduran DONDURUCU yetenek gibi farklı ikonlar
+arasıra oluşacaktır.
+
+Oyununcunun skoru hesaplanır, oyuncuya belli zaman aralıklarında YILDIZ puanları verilebilir
+Bu puanlar ile mağaza içerisinden farklı TEMA, Wallpaper gibi oyun için öğeleri satın alabilir.
+
