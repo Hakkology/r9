@@ -1,5 +1,6 @@
-# r9! - Bir refleks oyunu
+**Language / Dil:** [English](#english-content) | [Türkçe](#türkçe-içerik)
 
+## Türkçe İçerik
 Bu depo bilgi amaçlı oluşturulmuştur.
 
 :alarm_clock: Android platformlar için Unity Game Engine ile geliştirilmiş Refleks oyunudur.
@@ -10,7 +11,7 @@ Oyun tam olarak çıktığında ve tüm buglar temizlendiğinde tam sürümü pa
 
 Çok yakında :)
 
-# r9! - A Reflex Game
+## English Content
 This repository was only created for informational purposes.
 
 :alarm_clock: R9 is a mobile game that will come out soon on android platforms.
