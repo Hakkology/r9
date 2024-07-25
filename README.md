@@ -7,9 +7,7 @@ Bu depo bilgi amaçlı oluşturulmuştur.
 
 Bu oyunda, oyuncular UI elementleri ile etkileşimde bulunarak tıklayabilecekler ve oyun ilerledikçe puan kazanabilecekler.
 
-Oyun tam olarak çıktığında ve tüm buglar temizlendiğinde tam sürümü paylaşılacaktır.
-
-Çok yakında :)
+https://hakkology.itch.io/r9
 
 ## English Content
 This repository was only created for informational purposes.
@@ -18,6 +16,4 @@ This repository was only created for informational purposes.
 
 In this game, players will be able to click and interact with UI elements and gain score as the game progresses.
 
-Link for full version will be shared once it is fully released and all bugs are fixed.
-
-Very soon :).
+https://hakkology.itch.io/r9
